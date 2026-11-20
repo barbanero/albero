@@ -1,0 +1,124 @@
+[
+  {
+    "id": "el-rinconcillo",
+    "nombre": "El Rinconcillo",
+    "tipo": "tapas",
+    "barrio": "Alameda",
+    "direccion": "Calle Gerona, 40",
+    "precio": "€€",
+    "resumen": "Bar de barra de madera, cuentas apuntadas con tiza y tapas de manual: espinacas con garbanzos, carrillada, jamón.",
+    "descripcion": [
+      "Uno de los bares más antiguos de la ciudad. Se pide en la barra, de pie, y la cuenta se escribe con tiza en el mostrador.",
+      "Lo mejor: llegar entre semana a media tarde, cuando hay hueco en la barra y el camarero tiene tiempo para recomendar."
+    ],
+    "platos": ["Espinacas con garbanzos", "Carrillada al vino", "Jamón ibérico"],
+    "web": "https://www.example.com"
+  },
+  {
+    "id": "mercado-de-triana",
+    "nombre": "Mercado de Triana",
+    "tipo": "mercado",
+    "barrio": "Triana",
+    "direccion": "Calle San Jorge, 6",
+    "precio": "€",
+    "resumen": "Pescado, fruta y puestos donde se come de pie: mejor por la mañana, con el río a cinco minutos.",
+    "descripcion": [
+      "Un mercado de abastos que ha sumado puestos para comer en el sitio. Compra y almuerza en el mismo viaje.",
+      "Recomendable ir antes de las 14:00; después se llena y cuesta encontrar sitio."
+    ],
+    "platos": ["Pescado frito", "Ensaladilla", "Fruta de temporada"]
+  },
+  {
+    "id": "casa-morales",
+    "nombre": "Casa Morales",
+    "tipo": "tapas",
+    "barrio": "Centro",
+    "direccion": "Calle García de Vinuesa, 11",
+    "precio": "€€",
+    "resumen": "Taberna con tinajas de vino y mostrador de azulejo, a un paso de la Catedral.",
+    "descripcion": [
+      "Se come bien de pie en la barra y se bebe mejor: vinos de la tierra servidos a la manera de siempre."
+    ],
+    "platos": ["Chacinas", "Queso curado", "Montaditos"]
+  },
+  {
+    "id": "bodega-santa-cruz",
+    "nombre": "Bodega Santa Cruz",
+    "tipo": "tapas",
+    "barrio": "Santa Cruz",
+    "direccion": "Calle Rodrigo Caro, 1",
+    "precio": "€€",
+    "resumen": "Terraza a pie de calle, mucha gente y tapas clásicas: pide pronto o prepárate para esperar.",
+    "descripcion": [
+      "Un local de siempre en el corazón turístico de la ciudad. No es un secreto, y por eso funciona mejor a primera hora."
+    ],
+    "platos": ["Pringá", "Solomillo al whisky", "Cola de toro"]
+  },
+  {
+    "id": "mercado-de-feria",
+    "nombre": "Mercado de Feria",
+    "tipo": "mercado",
+    "barrio": "Macarena",
+    "direccion": "Calle Feria, s/n",
+    "precio": "€",
+    "resumen": "El mercado más castizo del casco antiguo, con bares de cocina casera en la barra y puestos de producto.",
+    "descripcion": [
+      "La calle Feria despierta con su mercado. Entre semana, almuerzos de cuchara; los sábados, ambiente de vermú y aperitivo."
+    ],
+    "platos": ["Montaditos de mercado", "Cocina de cuchara", "Vermú"]
+  },
+  {
+    "id": "pasteleria-pestinos",
+    "nombre": "Pastelería de Navidad (ejemplo)",
+    "tipo": "dulces",
+    "barrio": "Centro",
+    "direccion": "Calle Sierpes (ejemplo)",
+    "precio": "€",
+    "resumen": "Pestiños, roscos de vino y polvorones: la oferta de temporada antes de las fiestas.",
+    "descripcion": [
+      "Cada diciembre vuelven los dulces de convento y los de pastelería de barrio. Entra por la mañana, cuando salen del horno."
+    ],
+    "platos": ["Pestiños con miel", "Roscos de vino", "Polvorones"]
+  },
+  {
+    "id": "taberna-nervion-ejemplo",
+    "nombre": "Taberna Nueva Nervión (ejemplo)",
+    "tipo": "restaurante",
+    "barrio": "Nervión",
+    "direccion": "Avenida de Eduardo Dato (ejemplo)",
+    "precio": "€€€",
+    "resumen": "Apertura reciente con cocina de mercado, menú del día entre semana y carta corta de temporada.",
+    "descripcion": [
+      "Una carta de diez platos, cambiante cada semana, con producto de la sierra y de la costa gaditana."
+    ],
+    "platos": ["Arroz meloso de temporada", "Atún de almadraba", "Tarta de queso"],
+    "nuevo": true
+  },
+  {
+    "id": "bar-copas-alameda",
+    "nombre": "Bar de copas de la Alameda (ejemplo)",
+    "tipo": "copas",
+    "barrio": "Alameda",
+    "direccion": "Alameda de Hércules (ejemplo)",
+    "precio": "€€",
+    "resumen": "Coctelería de autor con música en vivo los jueves y terraza abierta hasta la una.",
+    "descripcion": [
+      "Local pequeño con barra larga y una carta breve de cócteles con ingredientes locales: naranja amarga, aceite de oliva, vermú sevillano."
+    ],
+    "platos": ["Cóctel de naranja amarga", "Vermú en rama", "Tostas"],
+    "patrocinado": true
+  },
+  {
+    "id": "casa-triana-pescaito",
+    "nombre": "Freiduría de Triana (ejemplo)",
+    "tipo": "restaurante",
+    "barrio": "Triana",
+    "direccion": "Calle Pescadería (ejemplo)",
+    "precio": "€€",
+    "resumen": "Pescaíto frito al peso y en cartucho, para llevar al río o comer en la terraza.",
+    "descripcion": [
+      "Adobo, pijotas, choco y boquerones: lo clásico, frito al momento y a precio de barrio."
+    ],
+    "platos": ["Adobo", "Boquerones fritos", "Choco frito"]
+  }
+]

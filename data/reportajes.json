@@ -1,0 +1,60 @@
+[
+  {
+    "id": "triana-ruta-a-pie",
+    "titulo": "Triana al atardecer: una ruta a pie entre cerámica, mercado y río",
+    "categoria": "Paseos",
+    "fecha": "2026-11-18",
+    "autor": "Redacción",
+    "resumen": "Tres horas, cinco paradas y ningún coche: una forma de conocer el barrio de la otra orilla sin prisa.",
+    "cuerpo": [
+      { "t": "p", "text": "Cruzar el puente es la parte fácil. Lo que cuesta, en Triana, es dejar de mirar el móvil. Esta ruta funciona mejor si sales sobre las cinco de la tarde, cuando la luz baja y las calles empiezan a oler a fritura." },
+      { "t": "h2", "text": "Primera parada: el mercado" },
+      { "t": "p", "text": "Empieza donde acaba el puente. El Mercado de Triana abre sus puestos de comida a media tarde; es buen momento para tomar algo corto antes de caminar. Pide algo ligero: lo contundente, para después." },
+      { "t": "quote", "text": "Aquí se come mirando la calle, no el plato." },
+      { "t": "h2", "text": "Segunda parada: la cerámica" },
+      { "t": "p", "text": "Los talleres de cerámica del barrio son parte de su identidad. Muchos abren hasta las ocho. Entrar a mirar no compromete a nada, y si hay alguien trabajando el torno, merece la pena quedarse un minuto." },
+      { "t": "h2", "text": "Tercera parada: el río" },
+      { "t": "p", "text": "Termina en el paseo junto al río, a la hora en que las luces de la otra orilla se encienden. Hay bancos y heladerías, y en invierno, castañas." }
+    ]
+  },
+  {
+    "id": "espinacas-con-garbanzos",
+    "titulo": "Espinacas con garbanzos: cómo pedirlas bien (y por qué no todas son iguales)",
+    "categoria": "Gastronomía",
+    "fecha": "2026-11-15",
+    "autor": "Redacción",
+    "resumen": "Una tapa de invierno que se hace con pocos ingredientes y mucha mano. Qué mirar antes de pedirla.",
+    "cuerpo": [
+      { "t": "p", "text": "Parece sencilla: espinacas, garbanzos, comino, ajo, pan frito, vinagre. Pero la diferencia entre una versión correcta y una buena está en el punto del majado y en cuánto aceite se atreve a usar la cocina." },
+      { "t": "h2", "text": "Qué buscar" },
+      { "t": "p", "text": "Una buena ración no tiene aspecto de puré. Debe verse la hoja, el garbanzo entero y una salsa que ligue sin empastar. El comino se nota, pero no manda." },
+      { "t": "h2", "text": "Cuándo pedirla" },
+      { "t": "p", "text": "De octubre a marzo, cuando la espinaca es de temporada. En verano muchos bares la retiran de la carta, y es buena señal." }
+    ]
+  },
+  {
+    "id": "flamenco-fuera-de-cartel",
+    "titulo": "El flamenco que no sale en los carteles",
+    "categoria": "Cultura",
+    "fecha": "2026-11-12",
+    "autor": "Redacción",
+    "resumen": "Peñas, tabancos y reuniones de barrio donde el cante se escucha sin entrada de por medio.",
+    "cuerpo": [
+      { "t": "p", "text": "El flamenco de Sevilla no vive solo en los tablaos. Hay peñas con sede propia y noches de jueves en las que el cante se pasa de mano en mano sin guion." },
+      { "t": "p", "text": "Si quieres entrar a una peña, pregunta antes y respeta el silencio durante el cante. En muchas hay que ser socio o ir invitado." },
+      { "t": "quote", "text": "Se aprende más callando en una peña que pagando en un tablao." }
+    ]
+  },
+  {
+    "id": "bares-de-pie",
+    "titulo": "Cinco bares donde se come de pie y bien",
+    "categoria": "Gastronomía",
+    "fecha": "2026-11-08",
+    "autor": "Redacción",
+    "resumen": "Barras de siempre, sin mesa reservada y con cuentas escritas en el mostrador.",
+    "cuerpo": [
+      { "t": "p", "text": "Comer de pie tiene su técnica: se pide poco, se pide a menudo y se cambia de bar antes de que se enfríe la conversación." },
+      { "t": "p", "text": "Esta selección reúne barras clásicas donde el ritmo lo marca el camarero y el precio no sube por estar en el centro." }
+    ]
+  }
+]

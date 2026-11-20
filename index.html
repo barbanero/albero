@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Albero · Cultura y mesa en Sevilla</title>
+  <meta name="description" content="Agenda cultural y guía gastronómica de Sevilla: conciertos, teatro, flamenco, exposiciones, tapas, mercados y reportajes.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%231C3FAA'/%3E%3Cpath d='M0 0H32A32 32 0 0 1 0 32Z' fill='%23E2A93B'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gloock&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="saltar" href="#contenido">Saltar al contenido</a>
+
+  <header class="cabecera">
+    <div class="cabecera__fila">
+      <a class="marca" href="#/" aria-label="Albero, inicio">Albero</a>
+      <p class="cabecera__meta">
+        <span id="fecha-hoy"></span>
+        <span id="lema"></span>
+      </p>
+    </div>
+    <div class="franja" id="franja" aria-hidden="true"></div>
+    <nav class="menu" aria-label="Secciones">
+      <a href="#/agenda" data-nav="agenda">Agenda</a>
+      <a href="#/comer" data-nav="comer">Comer y beber</a>
+      <a href="#/reportajes" data-nav="reportajes">Reportajes</a>
+      <a href="#/barrios" data-nav="barrios">Barrios</a>
+    </nav>
+  </header>
+
+  <main id="contenido" tabindex="-1">
+    <noscript><p class="aviso">Esta revista necesita JavaScript para cargar la programación.</p></noscript>
+  </main>
+
+  <footer class="pie">
+    <div id="ad-pie"></div>
+    <div class="pie__fila">
+      <p><strong id="pie-nombre">Albero</strong> es una revista digital sobre la programación cultural y gastronómica de Sevilla.</p>
+      <p><a href="#/aviso-legal">Aviso legal</a>, <a href="#/privacidad">Privacidad</a>, <a href="#/cookies">Cookies</a>, <a href="#" id="abrir-cookies">Preferencias de publicidad</a></p>
+    </div>
+  </footer>
+
+  <div class="cookies" id="cookies" role="dialog" aria-labelledby="cookies-t" hidden>
+    <h2 id="cookies-t">Publicidad y cookies</h2>
+    <p>Usamos cookies de publicidad de Google para financiar la revista. Solo se cargan si las aceptas.</p>
+    <div class="cookies__botones">
+      <button type="button" class="boton boton--claro" id="cookies-no">Rechazar</button>
+      <button type="button" class="boton" id="cookies-si">Aceptar</button>
+    </div>
+  </div>
+
+  <script src="js/azulejos.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

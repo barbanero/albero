@@ -1,0 +1,24 @@
+{
+  "nombre": "Albero",
+  "lema": "Cultura y mesa en Sevilla",
+  "url_base": "https://www.example.com",
+  "fecha_demo": "2026-11-20",
+  "legal": {
+    "titular": "",
+    "nif": "",
+    "domicilio": "",
+    "email": ""
+  },
+  "anuncios": {
+    "activo": true,
+    "mostrar_reservas": true,
+    "adsense_client": "",
+    "slots": {
+      "cabecera": "",
+      "lateral": "",
+      "infeed": "",
+      "pie": ""
+    },
+    "infeed_cada": 6
+  }
+}

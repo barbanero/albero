@@ -1,0 +1,204 @@
+[
+  {
+    "id": "beethoven-falla-maestranza",
+    "titulo": "Beethoven y Falla en el Maestranza",
+    "categoria": "musica",
+    "fecha": "2026-11-20",
+    "hora": "20:00",
+    "lugar": "Teatro de la Maestranza",
+    "barrio": "Centro",
+    "precio": "Desde 18 €",
+    "resumen": "La sinfónica de la ciudad une la Séptima de Beethoven con las danzas de Falla en un programa de temporada.",
+    "descripcion": [
+      "Un programa pensado para quien quiere salir del concierto con ganas de seguir escuchando: el pulso rítmico de Beethoven en primera parte y el color andaluz de Falla en la segunda.",
+      "Conviene llegar con tiempo. El teatro abre el vestíbulo una hora antes y la cafetería del Arenal queda a dos minutos si prefieres tomar algo antes."
+    ],
+    "url_entradas": "https://www.example.com/entradas",
+    "destacado": true
+  },
+  {
+    "id": "fandangos-casa-memoria",
+    "titulo": "Noche de fandangos en la Casa de la Memoria",
+    "categoria": "flamenco",
+    "fecha": "2026-11-20",
+    "hora": "21:30",
+    "lugar": "Casa de la Memoria",
+    "barrio": "Santa Cruz",
+    "precio": "22 €",
+    "resumen": "Aforo pequeño, patio y guitarra: flamenco de cerca, sin artificio, en pleno barrio de Santa Cruz.",
+    "descripcion": [
+      "Un formato íntimo: cante, guitarra y baile a pocos metros del público. Las entradas se agotan con días de antelación, así que conviene reservar.",
+      "Duración aproximada: 75 minutos, sin pausa."
+    ],
+    "url_entradas": "https://www.example.com/entradas"
+  },
+  {
+    "id": "bernarda-alba-lope-de-vega",
+    "titulo": "La casa de Bernarda Alba",
+    "categoria": "teatro",
+    "fecha": "2026-11-26",
+    "fecha_fin": "2026-11-29",
+    "hora": "20:30",
+    "lugar": "Teatro Lope de Vega",
+    "barrio": "Centro",
+    "precio": "Desde 15 €",
+    "resumen": "García Lorca en una versión de cámara, con seis actrices y una escenografía casi desnuda.",
+    "descripcion": [
+      "Cuatro funciones para volver a un clásico que sigue incomodando. La puesta en escena prescinde de decorado y se apoya en la luz y en el silencio.",
+      "El jueves hay coloquio con la compañía al terminar la función."
+    ],
+    "url_entradas": "https://www.example.com/entradas"
+  },
+  {
+    "id": "zurbaran-visitas-comentadas",
+    "titulo": "Zurbarán de cerca: visitas comentadas",
+    "categoria": "exposicion",
+    "fecha": "2026-10-15",
+    "fecha_fin": "2027-01-10",
+    "hora": "12:00",
+    "lugar": "Museo de Bellas Artes",
+    "barrio": "Centro",
+    "precio": "Entrada reducida",
+    "resumen": "Visitas de una hora por las salas barrocas, con detalle de luz, tejidos y encargos conventuales.",
+    "descripcion": [
+      "Los sábados a mediodía, un guía recorre las salas dedicadas a la pintura barroca sevillana y se detiene en pocas obras, pero con tiempo.",
+      "Grupos reducidos. Se recomienda reservar plaza el mismo día en taquilla."
+    ]
+  },
+  {
+    "id": "antiquarium-nocturna",
+    "titulo": "Visita nocturna al Antiquarium",
+    "categoria": "exposicion",
+    "fecha": "2026-11-21",
+    "hora": "19:00",
+    "lugar": "Metropol Parasol (Las Setas)",
+    "barrio": "Centro",
+    "precio": "8 €",
+    "resumen": "Los restos romanos bajo la Encarnación, con guía y sin las multitudes del mediodía.",
+    "descripcion": [
+      "Un paseo por las calles, casas y factorías de salazón que aparecieron bajo la antigua plaza. Después, el mirador queda a un ascensor de distancia."
+    ],
+    "url_entradas": "https://www.example.com/entradas"
+  },
+  {
+    "id": "cuentos-de-invierno",
+    "titulo": "Cuentos de invierno",
+    "categoria": "familia",
+    "fecha": "2026-11-22",
+    "hora": "12:00",
+    "lugar": "Biblioteca Infanta Elena",
+    "barrio": "Los Remedios",
+    "precio": "Gratis",
+    "resumen": "Sesión de cuentacuentos para niños de 4 a 8 años, con taller de papel al final.",
+    "descripcion": [
+      "Entrada libre hasta completar aforo. Recomendado llegar quince minutos antes."
+    ]
+  },
+  {
+    "id": "mercadillo-vinilos-pumarejo",
+    "titulo": "Mercadillo de vinilos y fanzines",
+    "categoria": "festival",
+    "fecha": "2026-11-21",
+    "fecha_fin": "2026-11-22",
+    "hora": "11:00",
+    "lugar": "Plaza del Pumarejo",
+    "barrio": "Macarena",
+    "precio": "Gratis",
+    "resumen": "Coleccionistas, sellos locales y editoriales pequeñas en la plaza, con música pinchada y café de por medio.",
+    "descripcion": [
+      "Dos días de puestos al aire libre. Si buscas discos de flamenco antiguo o de pop andaluz de los noventa, llega pronto: lo bueno vuela."
+    ]
+  },
+  {
+    "id": "ciclo-cine-andaluz",
+    "titulo": "Ciclo de cine andaluz: sesión doble",
+    "categoria": "cine",
+    "fecha": "2026-11-24",
+    "hora": "19:30",
+    "lugar": "Sala de cine de Nervión (ejemplo)",
+    "barrio": "Nervión",
+    "precio": "4 €",
+    "resumen": "Dos cortos y un largometraje de producción andaluza, con charla con su director después.",
+    "descripcion": [
+      "Una sesión mensual dedicada al cine hecho en Andalucía. Este mes, la programación se centra en historias de barrio rodadas en Sevilla."
+    ]
+  },
+  {
+    "id": "noche-indie-malandar",
+    "titulo": "Noche indie con tres bandas locales",
+    "categoria": "musica",
+    "fecha": "2026-11-27",
+    "hora": "22:00",
+    "lugar": "Sala Malandar",
+    "barrio": "Alameda",
+    "precio": "10 €",
+    "resumen": "Tres grupos sevillanos de guitarras en una misma noche, con sesión de DJ al terminar.",
+    "descripcion": [
+      "Puertas a las 21:30. Las primeras 50 entradas anticipadas incluyen una consumición."
+    ],
+    "url_entradas": "https://www.example.com/entradas"
+  },
+  {
+    "id": "tablao-santa-cruz",
+    "titulo": "Tablao flamenco de sobremesa",
+    "categoria": "flamenco",
+    "fecha": "2026-11-28",
+    "hora": "18:30",
+    "lugar": "Tablao de Santa Cruz (ejemplo)",
+    "barrio": "Santa Cruz",
+    "precio": "28 €",
+    "resumen": "Una sesión temprana, más tranquila que la de la noche, ideal para quien llega de fuera.",
+    "descripcion": [
+      "Cuadro de seis artistas, 80 minutos. Incluye una bebida.",
+      "Contenido patrocinado por el establecimiento."
+    ],
+    "patrocinado": true,
+    "url_entradas": "https://www.example.com/entradas"
+  },
+  {
+    "id": "danza-teatro-central",
+    "titulo": "Ribera: danza contemporánea",
+    "categoria": "danza",
+    "fecha": "2026-12-03",
+    "hora": "20:30",
+    "lugar": "Teatro Central",
+    "barrio": "La Cartuja",
+    "precio": "12 €",
+    "resumen": "Una pieza para seis bailarines sobre el río, la memoria y el trabajo de los muelles.",
+    "descripcion": [
+      "Estreno en Sevilla de una compañía andaluza que lleva dos años girando por Europa. Una hora sin descanso."
+    ],
+    "url_entradas": "https://www.example.com/entradas"
+  },
+  {
+    "id": "mercadillo-navidad-alameda",
+    "titulo": "Mercadillo de Navidad de la Alameda",
+    "categoria": "festival",
+    "fecha": "2026-12-05",
+    "fecha_fin": "2026-12-24",
+    "hora": "11:00",
+    "lugar": "Alameda de Hércules",
+    "barrio": "Alameda",
+    "precio": "Gratis",
+    "resumen": "Artesanía, dulces y música en vivo los fines de semana, a lo largo de todo el paseo.",
+    "descripcion": [
+      "Más de cuarenta puestos de artesanía local, comida callejera y un escenario para coros y grupos del barrio. Abierto todos los días hasta las 21:00."
+    ]
+  },
+  {
+    "id": "fotografia-triana-paseo-ejemplo",
+    "titulo": "Paseo fotográfico por Triana al atardecer (ejemplo)",
+    "categoria": "fotografia",
+    "fecha": "2026-11-29",
+    "hora": "17:30",
+    "lugar": "Puente de Isabel II (punto de encuentro)",
+    "barrio": "Triana",
+    "precio": "15 €",
+    "resumen": "Dos horas con cámara o móvil por calles, mercado y orilla del río, con consejos de luz y encuadre.",
+    "descripcion": [
+      "Un recorrido a pie en grupo reducido para aprender a leer la luz de última hora de la tarde. Sirve cualquier cámara, también el móvil.",
+      "Evento de muestra: sustitúyelo por un plan real."
+    ],
+    "url_entradas": "https://www.example.com/entradas"
+  }
+]
