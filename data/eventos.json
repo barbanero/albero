@@ -200,5 +200,20 @@
       "Evento de muestra: sustitúyelo por un plan real."
     ],
     "url_entradas": "https://www.example.com/entradas"
+  },
+  {
+    "id": "literatura-club-lectura-ejemplo",
+    "titulo": "Club de lectura: novela andaluza contemporánea (ejemplo)",
+    "categoria": "literatura",
+    "fecha": "2026-11-25",
+    "hora": "19:00",
+    "lugar": "Biblioteca de ejemplo",
+    "barrio": "Centro",
+    "precio": "Gratis",
+    "resumen": "Una tarde al mes para comentar un libro con otros lectores, con café y sin necesidad de haber terminado la novela.",
+    "descripcion": [
+      "Sesión de muestra de un club de lectura abierto. Se comenta un título distinto cada mes y se propone el siguiente al terminar.",
+      "Evento de muestra: sustitúyelo por un plan real."
+    ]
   }
 ]

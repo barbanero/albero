@@ -11,7 +11,7 @@ fs.mkdirSync(path.join(raiz, 'docs'), { recursive: true });
 
 const NOMBRES = {
   musica: 'Música', teatro: 'Teatro', flamenco: 'Flamenco', exposicion: 'Exposiciones', cine: 'Cine', danza: 'Danza',
-  festival: 'Fiestas y mercadillos', familia: 'En familia', fotografia: 'Fotografía',
+  festival: 'Fiestas y mercadillos', familia: 'En familia', fotografia: 'Fotografía', literatura: 'Literatura',
   tapas: 'Tapas', restaurante: 'Restaurantes', mercado: 'Mercados', dulces: 'Dulces y cafés', copas: 'Bares y copas',
   reportaje: 'Reportajes'
 };

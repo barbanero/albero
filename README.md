@@ -56,7 +56,7 @@ La forma más rápida: abre `vista-previa.html` con doble clic (web completa en 
 
 **eventos.json** (lista)
 
-    id (único, minúsculas y guiones) · titulo · categoria (musica|teatro|flamenco|exposicion|cine|danza|festival|familia|fotografia)
+    id (único, minúsculas y guiones) · titulo · categoria (musica|teatro|flamenco|exposicion|cine|danza|festival|familia|fotografia|literatura)
     fecha "AAAA-MM-DD" · fecha_fin (opcional) · hora "HH:MM" · lugar · barrio · precio
     resumen · descripcion [párrafos] · url_entradas (https) · imagen (https, opcional)
     destacado (bool, sale en portada) · patrocinado (bool, muestra la etiqueta)

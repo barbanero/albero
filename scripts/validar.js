@@ -7,7 +7,7 @@ const dir = path.join(__dirname, '..', 'data');
 const errores = [];
 const err = (f, m) => errores.push(`${f}: ${m}`);
 
-const EVENTOS = ['musica', 'teatro', 'flamenco', 'exposicion', 'cine', 'danza', 'festival', 'familia', 'fotografia'];
+const EVENTOS = ['musica', 'teatro', 'flamenco', 'exposicion', 'cine', 'danza', 'festival', 'familia', 'fotografia', 'literatura'];
 const LUGARES = ['tapas', 'restaurante', 'mercado', 'dulces', 'copas'];
 const reFecha = /^\d{4}-\d{2}-\d{2}$/;
 const reHora = /^([01]\d|2[0-3]):[0-5]\d$/;

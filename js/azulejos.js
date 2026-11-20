@@ -27,7 +27,9 @@
     /* 3 · estrella de ocho puntas */
     (a, b, c) => `<rect width="20" height="20" fill="${b}"/><polygon points="${estrella(10, 10, 9, 4.6, 8)}" fill="${a}"/><circle cx="10" cy="10" r="2.2" fill="${c}"/>`,
     /* 4 · objetivo: círculos concéntricos */
-    (a, b, c) => `<rect width="20" height="20" fill="${b}"/><circle cx="10" cy="10" r="9" fill="${a}"/><circle cx="10" cy="10" r="5.6" fill="${b}"/><circle cx="10" cy="10" r="2.6" fill="${c}"/>`
+    (a, b, c) => `<rect width="20" height="20" fill="${b}"/><circle cx="10" cy="10" r="9" fill="${a}"/><circle cx="10" cy="10" r="5.6" fill="${b}"/><circle cx="10" cy="10" r="2.6" fill="${c}"/>`,
+    /* 5 · libro abierto */
+    (a, b, c) => `<rect width="20" height="20" fill="${b}"/><polygon points="2,5 10,7.5 10,17 2,14.5" fill="${a}"/><polygon points="18,5 10,7.5 10,17 18,14.5" fill="${a}"/><rect x="9.4" y="3.5" width="1.2" height="14" fill="${c}"/>`
   ];
   const GIRO = [0, 90, 270, 180];
   const PERMUTACIONES = [[0, 1, 2], [1, 0, 2], [0, 2, 1]];
@@ -44,6 +46,7 @@
     danza:      { m: [2, 0], perm: 0, pal: [C.cobalto, C.granada, C.cal] },
     festival:   { m: [0, 1], perm: 0, pal: [C.albero, C.cobalto, C.cal] },
     familia:    { m: [2, 3], perm: 2, pal: [C.albero, C.granada, C.cal] },
+    literatura: { m: [5, 3], perm: 0, pal: [C.cal, C.cobalto, C.albero] },
     fotografia: { m: [4, 1], perm: 0, pal: [C.tinta, C.cal, C.cobalto] },
     /* Comer y beber */
     tapas:      { m: [2, 0], perm: 0, pal: [C.albero, C.granada, C.cal] },

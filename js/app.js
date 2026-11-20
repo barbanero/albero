@@ -14,7 +14,7 @@
   const fmt = (s, o) => new Intl.DateTimeFormat('es-ES', o).format(parse(s));
   const sumar = (s, n) => { const d = parse(s); d.setDate(d.getDate() + n); return iso(d); };
 
-  const CAT_EVENTO = { musica: 'Música', teatro: 'Teatro', flamenco: 'Flamenco', exposicion: 'Exposiciones', cine: 'Cine', danza: 'Danza', festival: 'Fiestas y mercadillos', familia: 'En familia', fotografia: 'Fotografía' };
+  const CAT_EVENTO = { musica: 'Música', teatro: 'Teatro', flamenco: 'Flamenco', exposicion: 'Exposiciones', cine: 'Cine', danza: 'Danza', festival: 'Fiestas y mercadillos', familia: 'En familia', fotografia: 'Fotografía', literatura: 'Literatura' };
   const TIPO_LUGAR = { tapas: 'Tapas', restaurante: 'Restaurantes', mercado: 'Mercados', dulces: 'Dulces y cafés', copas: 'Bares y copas' };
 
   /* ---------- Arte: azulejos (ver js/azulejos.js) ---------- */
